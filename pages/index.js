@@ -3,7 +3,7 @@ import { useState } from 'react';
 function Home(){
     return (
         <div>
-            <h1>My First API</h1>
+            <h1>My First API Deployed</h1>
             <Contador />
         
         </div>
